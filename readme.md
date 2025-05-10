@@ -48,7 +48,7 @@ python xiaoce_quiz.py
 2. 按F12打开开发者工具
 3. 切换到"网络"(Network)选项卡
 4. 刷新页面
-5. 找到任意一个API请求
+5. 在 Fetch/XHR 一栏中找到任意一个API请求
 6. 在请求头(Headers)中找到"Cookie"字段
 7. 复制Cookie的完整内容
 8. 替换脚本中的`COOKIE`变量值
