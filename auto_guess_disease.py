@@ -204,7 +204,7 @@ def answer_only_mode():
     print(f"今日答案: {disease}")
     print(f"当前日期: {date}")
     print(f"当前成功次数: {success_count}")
-    print("请手动打开小测并输入此答案")
+    print("请手动打开测盐并输入此答案")
     print("==================================================")
 
 def main():
