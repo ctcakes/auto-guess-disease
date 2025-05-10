@@ -32,7 +32,7 @@ pip install -r requirements.txt
 3. 运行脚本：
 
 ```bash
-python xiaoce_quiz.py
+python auto_guess_disease.py
 ```
 
 4. 根据提示选择执行模式：
